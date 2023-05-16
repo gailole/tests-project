@@ -15,5 +15,7 @@
             "email": "oleg.gailun@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
 }
