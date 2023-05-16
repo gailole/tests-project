@@ -1,0 +1,19 @@
+{
+    "name": "gailole/tests",
+    "description": "test",
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ],
+        "psr-4": {
+            "Gailole\\Tests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gailole",
+            "email": "oleg.gailun@yandex.ru"
+        }
+    ],
+    "require": {}
+}
